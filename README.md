@@ -1,2 +1,2 @@
-# SDSS_J0924 readme
+# SDSS_J0924
 
